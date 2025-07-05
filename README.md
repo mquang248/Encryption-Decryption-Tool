@@ -11,7 +11,7 @@ A secure and user-friendly desktop application for encrypting and decrypting tex
 - Secure random key generation
 - Cross-platform support (Windows and Linux)
 
-## Screenshots
+## Function
 
 - Text Encryption Tab: Input text, click Encrypt/Decrypt, and easily copy results
 - File Encryption Tab: Select files, encrypt/decrypt with progress feedback
